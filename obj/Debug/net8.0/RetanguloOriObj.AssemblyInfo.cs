@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RetanguloOriObj")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+57c50190938626ad1889b88898c7730d84d84268")]
 [assembly: System.Reflection.AssemblyProductAttribute("RetanguloOriObj")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RetanguloOriObj")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

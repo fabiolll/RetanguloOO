@@ -1,0 +1,15 @@
+C:\Users\Fabio\Documents\csharp\projetos\RetanguloOriObj\bin\Debug\net8.0\RetanguloOriObj.exe
+C:\Users\Fabio\Documents\csharp\projetos\RetanguloOriObj\bin\Debug\net8.0\RetanguloOriObj.deps.json
+C:\Users\Fabio\Documents\csharp\projetos\RetanguloOriObj\bin\Debug\net8.0\RetanguloOriObj.runtimeconfig.json
+C:\Users\Fabio\Documents\csharp\projetos\RetanguloOriObj\bin\Debug\net8.0\RetanguloOriObj.dll
+C:\Users\Fabio\Documents\csharp\projetos\RetanguloOriObj\bin\Debug\net8.0\RetanguloOriObj.pdb
+C:\Users\Fabio\Documents\csharp\projetos\RetanguloOriObj\obj\Debug\net8.0\RetanguloOriObj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabio\Documents\csharp\projetos\RetanguloOriObj\obj\Debug\net8.0\RetanguloOriObj.AssemblyInfoInputs.cache
+C:\Users\Fabio\Documents\csharp\projetos\RetanguloOriObj\obj\Debug\net8.0\RetanguloOriObj.AssemblyInfo.cs
+C:\Users\Fabio\Documents\csharp\projetos\RetanguloOriObj\obj\Debug\net8.0\RetanguloOriObj.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\Documents\csharp\projetos\RetanguloOriObj\obj\Debug\net8.0\RetanguloOriObj.sourcelink.json
+C:\Users\Fabio\Documents\csharp\projetos\RetanguloOriObj\obj\Debug\net8.0\RetanguloOriObj.dll
+C:\Users\Fabio\Documents\csharp\projetos\RetanguloOriObj\obj\Debug\net8.0\refint\RetanguloOriObj.dll
+C:\Users\Fabio\Documents\csharp\projetos\RetanguloOriObj\obj\Debug\net8.0\RetanguloOriObj.pdb
+C:\Users\Fabio\Documents\csharp\projetos\RetanguloOriObj\obj\Debug\net8.0\RetanguloOriObj.genruntimeconfig.cache
+C:\Users\Fabio\Documents\csharp\projetos\RetanguloOriObj\obj\Debug\net8.0\ref\RetanguloOriObj.dll
